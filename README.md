@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gigaGlitch93
 - 👀 I’m interested in python for Data science and Machine Learning.
-- 🌱 I’m currently learning javaScript.
+- 🌱 I’m currently learning javaScript & Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mehtadeepak.inn@gmail.com
 - 😄 Pronouns: ...
